@@ -7,6 +7,7 @@ Url:		https://launchpad.net/unity-lens-applications
 Group:		Graphical desktop/Other
 Source0:	%{name}-%{version}.tar.gz
 BuildRequires:	intltool
+BuildRequires:	vala
 BuildRequires:	pkgconfig(dee-1.0)
 BuildRequires:	pkgconfig(gconf-2.0)
 BuildRequires:	pkgconfig(gee-1.0)
