@@ -1,5 +1,5 @@
 Name:		unity-lens-applications
-Version:	0.4.12
+Version:	5.12.0
 Release:	1
 License:	GPLv3
 Summary:	Application lens for the Unity Desktop
@@ -15,8 +15,7 @@ BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(libgnome-menu)
 BuildRequires:	pkgconfig(unity)
 BuildRequires:	pkgconfig(zeitgeist-1.0)
-# #error "unity-lens-applications only compiles and works against libdb-4.8.
-BuildRequires:	db4-devel
+BuildRequires:	db-devel
 BuildRequires:	vala-devel
 BuildRequires:	libxapian-devel
 
