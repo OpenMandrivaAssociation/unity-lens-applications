@@ -45,4 +45,4 @@ into Unity to launch and install applications.
 %{_datadir}/unity/lenses/
 %{_datadir}/unity/themes/applications.png
 %{_datadir}/desktop-directories/X-Unity-All-Applications.directory
-
+%{_sysconfdir}/glib-2.0/schemas/com.canonical.Unity.AppsLens.gschema.xml
