@@ -15,7 +15,7 @@ BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(libgnome-menu)
 BuildRequires:	pkgconfig(unity)
 BuildRequires:	pkgconfig(zeitgeist-1.0)
-BuildRequires:	db-devel
+BuildRequires:	db51-devel
 BuildRequires:	vala-devel
 BuildRequires:	libxapian-devel
 
