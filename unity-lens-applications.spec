@@ -6,6 +6,11 @@ Summary:	Application lens for the Unity Desktop
 Url:		https://launchpad.net/unity-lens-applications
 Group:		Graphical desktop/Other
 Source0:	%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	intltool
 BuildRequires:	vala
 BuildRequires:	pkgconfig(dee-1.0)
